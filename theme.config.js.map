@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "theme.config.js",
+  "sourceRoot": "",
+  "sources": [
+    "theme.config.ts"
+  ],
+  "names": [],
+  "mappings": "AAAA,aAAa;AACb,MAAM,CAAC,MAAM,YAAY,GAAG;IACxB,MAAM,EAAE,IAAI;IACZ,KAAK,EAAE,OAAO;IACd,IAAI,EAAE,UAAU;IAChB,MAAM,EAAE,MAAM;IACd,QAAQ,EAAE,KAAK;IACf,SAAS,EAAE,EAAE;IACb,MAAM,EAAE,eAAe;IACvB,QAAQ,EAAE,KAAK;CAClB,CAAC"
+}

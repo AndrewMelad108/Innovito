@@ -1,0 +1,42 @@
+@import 'vue3-perfect-scrollbar/dist/vue3-perfect-scrollbar.css';
+@import 'tailwind.css';
+@import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
+#App,
+html,
+body {
+  font-family: 'Cairo', sans-serif;
+  user-select: none;
+}
+.text-align-important {
+  text-align: center !important;
+}
+.image {
+  background-image: url('/assets/images/coming-soon.svg');
+  min-height: 80vh;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 10px #c1c1c195;
+  border-radius: 6px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #62626265;
+  border-radius: 6px;
+  cursor: pointer;
+}
+input:focus {
+  outline: none;
+}
+input[type='number']::-webkit-inner-spin-button {
+  -webkit-appearance: none !important;
+}

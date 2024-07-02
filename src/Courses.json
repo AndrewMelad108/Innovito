@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "rate": 4,
+    "title": "Basics of Java",
+    "content1": "Live synchronous program",
+    "content2": "Programming",
+    "time": {
+      "hours": 12,
+      "minutes": 37
+    },
+    "lessons": 6,
+    "level": "Beginner"
+  },
+  {
+    "id": 2,
+    "rate": 4,
+    "title": "Basics of Java",
+    "content1": "Live synchronous program",
+    "content2": "Programming",
+    "time": {
+      "hours": 12,
+      "minutes": 37
+    },
+    "lessons": 6,
+    "level": "Beginner"
+  },
+  {
+    "id": 3,
+    "rate": 4,
+    "title": "Basics of Java",
+    "content1": "Live synchronous program",
+    "content2": "Programming",
+    "time": {
+      "hours": 12,
+      "minutes": 37
+    },
+    "lessons": 6,
+    "level": "Beginner"
+  },
+  {
+    "id": 4,
+    "rate": 4,
+    "title": "Basics of Java",
+    "content1": "Live synchronous program",
+    "content2": "Programming",
+    "time": {
+      "hours": 12,
+      "minutes": 37
+    },
+    "lessons": 6,
+    "level": "Beginner"
+  },
+  {
+    "id": 5,
+    "rate": 4,
+    "title": "Basics of Java",
+    "content1": "Live synchronous program",
+    "content2": "Programming",
+    "time": {
+      "hours": 12,
+      "minutes": 37
+    },
+    "lessons": 6,
+    "level": "Beginner"
+  },
+  {
+    "id": 6,
+    "rate": 4,
+    "title": "Basics of Java",
+    "content1": "Live synchronous program",
+    "content2": "Programming",
+    "time": {
+      "hours": 12,
+      "minutes": 37
+    },
+    "lessons": 6,
+    "level": "Beginner"
+  }
+]
