@@ -1,5 +1,5 @@
 <template>
-  <div class="Breadcrumbs my-2 text-[18px]">
+  <div class="Breadcrumbs my-2 text-[16px]">
     <ol class="flex font-semibold dark:text-white-dark capitalize">
       <li>
         <router-link

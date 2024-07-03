@@ -1,8 +1,8 @@
 <template>
   <div>
-    <Breadcrumb class="pl-4" />
+    <Breadcrumb class="pl-12" />
     <div
-      class="course-details min-h-[600px] md:p-4 p-2 shadow-md border border-gray-300 rounded-md mt-4"
+      class="course-details min-h-[600px] md:p-4 p-2 shadow-md border border-gray-300 rounded-md mt-4 lg:w-[95%] sm:w-[90%] w-[90%] mx-auto"
     >
       <CourseData :Course="Course" />
       <div

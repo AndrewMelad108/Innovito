@@ -129,7 +129,7 @@
             </svg>
           </a>
         </div>
-        <Header class="md:mt-8 mt-20" />
+        <Header class="sm:mt-16 mt-[80px]" />
 
         <!--  END TOP NAVBAR  -->
         <!--  BEGIN CONTENT AREA  -->

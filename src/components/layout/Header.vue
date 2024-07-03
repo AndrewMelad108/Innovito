@@ -1,6 +1,6 @@
 <template>
   <header
-    class="mt-6 mb-4 border grid-cols-2 grid justify-between items-center rounded-md bg-white p-2 shadow-md w-[85%] mx-auto"
+    class="mt-6 mb-4 border grid-cols-2 grid justify-between items-center rounded-md bg-white p-2 shadow-md lg:w-[95%] sm:w-[90%] w-[90%] mx-auto"
   >
     <div class="relative border-white-dark/20 w-full flex">
       <button
@@ -108,9 +108,7 @@
           stroke-linecap="round"
         />
       </svg>
-      <span class="text-white bg-red-500 p-1 rounded-md absolute top-1 right-16"
-        >234</span
-      >
+
       <p
         class="w-8 h-8 p-2 rounded-full bg-primary flex items-center justify-center"
       >
